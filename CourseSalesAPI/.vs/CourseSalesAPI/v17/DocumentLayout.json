@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\fullstackcoursesalesproject\\coursesalesapi\\presentation\\coursesalesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:46:32.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

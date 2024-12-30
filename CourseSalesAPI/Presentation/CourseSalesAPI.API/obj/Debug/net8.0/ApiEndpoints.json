@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "CourseSalesAPI.API.Controllers.CatalogController",
+    "Method": "Get",
+    "RelativePath": "api/Catalog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseSalesAPI.API.Controllers.CatalogController",
+    "Method": "AddCourse",
+    "RelativePath": "api/Catalog/AddCourse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseSalesAPI.Domain.Entities.Course",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseSalesAPI.API.Controllers.CatalogController",
+    "Method": "GetCourseById",
+    "RelativePath": "api/Catalog/GetCourseById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseSalesAPI.API.Controllers.CatalogController",
+    "Method": "GetCourses",
+    "RelativePath": "api/Catalog/GetCourses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
