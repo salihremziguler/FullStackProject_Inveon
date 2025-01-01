@@ -1,10 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\fullstackcoursesalesproject\\coursesalesapi\\presentation\\coursesalesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\updatecourse\\updatecoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\updatecourse\\updatecoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\updatecourse\\updatecoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\updatecourse\\updatecoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\updatecourse\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\updatecourse\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\removecourse\\removecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\removecourse\\removecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\removecourse\\removecoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\removecourse\\removecoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\removecourse\\removecoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\removecourse\\removecoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getcourseimage\\getbyidcourseimagesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getcourseimage\\getbyidcourseimagesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getcourseimage\\getbyidcourseimagesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getcourseimage\\getbyidcourseimagesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getcourseimage\\getbyidcourseimagesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getcourseimage\\getbyidcourseimagesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +86,223 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Program.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Program.cs",
-              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABcAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RemoveCourseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandHandler.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T21:46:32.391Z",
+              "WhenOpened": "2025-01-01T22:12:55.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveCourseCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandResponse.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandResponse.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:13:22.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCourseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandHandler.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:13:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCourseCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandRequest.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandRequest.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:13:46.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateCourseCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandResponse.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandResponse.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\UpdateCourse\\UpdateCourseCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:13:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoveCourseCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandRequest.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandRequest.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\RemoveCourse\\RemoveCourseCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:13:09.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetByIdCourseQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:09:57.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetByIdCourseQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:10:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetByIdCourseQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:10:17.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCourseCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandRequest.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandRequest.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:16:13.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCourseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandHandler.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:16:12.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllCourseQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryHandler.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryHandler.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:16:07.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllCourseQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryRequest.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryRequest.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:16:05.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllCourseQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryResponse.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryResponse.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:16:04.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetByIdCourseImagesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryHandler.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:11:40.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetByIdCourseImagesQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryResponse.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryResponse.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:11:32.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetByIdCourseImagesQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryRequest.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryRequest.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetCourseImage\\GetByIdCourseImagesQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:11:10.087Z",
               "EditorCaption": ""
             }
           ]

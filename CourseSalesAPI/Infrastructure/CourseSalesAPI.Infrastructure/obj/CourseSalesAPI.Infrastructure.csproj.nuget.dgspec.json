@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj": {}
+    "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj": {
+    "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj",
+        "projectUniqueName": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj",
         "projectName": "CourseSalesAPI.Application",
-        "projectPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj",
+        "projectPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj",
         "packagesPath": "C:\\Users\\slhgl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\obj\\",
+        "outputPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj"
+              "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj"
               }
             }
           }
@@ -67,6 +67,14 @@
               "target": "Package",
               "version": "[10.4.0, )"
             },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -92,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj": {
+    "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj",
         "projectName": "CourseSalesAPI.Domain",
-        "projectPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\slhgl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -158,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj": {
+    "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj",
         "projectName": "CourseSalesAPI.Infrastructure",
-        "projectPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\slhgl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -187,8 +195,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj"
+              "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj"
               }
             }
           }

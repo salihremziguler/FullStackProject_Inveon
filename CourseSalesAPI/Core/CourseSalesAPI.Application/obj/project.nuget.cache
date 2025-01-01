@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "vJvO285+7G8=",
+  "dgSpecHash": "GUInkfRvRis=",
   "success": true,
-  "projectFilePath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj",
+  "projectFilePath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slhgl\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\slhgl\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
     "C:\\Users\\slhgl\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "C:\\Users\\slhgl\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\slhgl\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\slhgl\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\slhgl\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\slhgl\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\slhgl\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.2\\microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",

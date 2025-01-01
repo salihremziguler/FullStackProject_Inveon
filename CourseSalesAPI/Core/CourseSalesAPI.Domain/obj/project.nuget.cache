@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ulffLdeFN8=",
+  "dgSpecHash": "cf3cR/NKWHc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\slhgl\\source\\repos\\FullStackCourseSalesProject\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj",
+  "projectFilePath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

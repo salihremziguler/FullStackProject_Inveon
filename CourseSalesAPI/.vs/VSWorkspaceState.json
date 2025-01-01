@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\CourseSalesAPI.Application",
+    "\\Core\\CourseSalesAPI.Application\\Abstractions",
+    "\\Core\\CourseSalesAPI.Domain",
+    "\\Core\\CourseSalesAPI.Domain\\Entities",
+    "\\Presentation",
+    "\\Presentation\\CourseSalesAPI.API"
+  ],
+  "SelectedNode": "\\Core\\CourseSalesAPI.Application\\Abstractions",
+  "PreviewInSolutionExplorer": false
+}
