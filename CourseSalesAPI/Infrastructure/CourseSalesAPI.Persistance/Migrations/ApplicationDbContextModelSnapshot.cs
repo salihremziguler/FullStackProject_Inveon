@@ -22,6 +22,21 @@ namespace CourseSalesAPI.Persistance.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("CourseCourseImageFile", b =>
+                {
+                    b.Property<Guid>("CourseImageFilesId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("CoursesId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("CourseImageFilesId", "CoursesId");
+
+                    b.HasIndex("CoursesId");
+
+                    b.ToTable("CourseCourseImageFile");
+                });
+
             modelBuilder.Entity("CourseSalesAPI.Domain.Entities.Course", b =>
                 {
                     b.Property<Guid>("Id")
@@ -75,6 +90,41 @@ namespace CourseSalesAPI.Persistance.Migrations
                     b.ToTable("Customers");
                 });
 
+            modelBuilder.Entity("CourseSalesAPI.Domain.Entities.File", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasMaxLength(21)
+                        .HasColumnType("nvarchar(21)");
+
+                    b.Property<string>("FileName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Path")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Storage")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Files");
+
+                    b.HasDiscriminator<string>("Discriminator").HasValue("File");
+
+                    b.UseTphMappingStrategy();
+                });
+
             modelBuilder.Entity("CourseSalesAPI.Domain.Entities.Order", b =>
                 {
                     b.Property<Guid>("Id")
@@ -98,6 +148,38 @@ namespace CourseSalesAPI.Persistance.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Orders");
+                });
+
+            modelBuilder.Entity("CourseSalesAPI.Domain.Entities.CourseImageFile", b =>
+                {
+                    b.HasBaseType("CourseSalesAPI.Domain.Entities.File");
+
+                    b.HasDiscriminator().HasValue("CourseImageFile");
+                });
+
+            modelBuilder.Entity("CourseSalesAPI.Domain.Entities.InvoiceFile", b =>
+                {
+                    b.HasBaseType("CourseSalesAPI.Domain.Entities.File");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasDiscriminator().HasValue("InvoiceFile");
+                });
+
+            modelBuilder.Entity("CourseCourseImageFile", b =>
+                {
+                    b.HasOne("CourseSalesAPI.Domain.Entities.CourseImageFile", null)
+                        .WithMany()
+                        .HasForeignKey("CourseImageFilesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("CourseSalesAPI.Domain.Entities.Course", null)
+                        .WithMany()
+                        .HasForeignKey("CoursesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

@@ -6,6 +6,7 @@ using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using CourseSalesAPI.Infrastructure;
 using CourseSalesAPI.Infrastructure.Services.Storage.Local;
+using CourseSalesAPI.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,7 +27,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddPersistenceServices();
 builder.Services.AddInfrastructureServices();
-
+builder.Services.AddApplicationServices();
 
 builder.Services.AddStorage<LocalStorage>();
 //builder.Services.AddStorage<AzureStorage>();

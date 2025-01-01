@@ -1,8 +1,12 @@
-﻿using CourseSalesAPI.Application.Repositories;
+﻿using CourseSalesAPI.Application.Feautures.Commands.Course.CreateCourse;
+using CourseSalesAPI.Application.Feautures.Queries.Course.GetAllCourse;
+using CourseSalesAPI.Application.Repositories;
 using CourseSalesAPI.Application.RequestParameters;
 using CourseSalesAPI.Domain.Entities;
+using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
 
 namespace CourseSalesAPI.API.Controllers
 {
@@ -12,18 +16,23 @@ namespace CourseSalesAPI.API.Controllers
     {
         private readonly ICourseReadRepository _courseReadRepository;
         private readonly ICourseWriteRepository _courseWriteRepository;
+        private readonly IMediator _mediator;
 
-        public CatalogController(ICourseReadRepository courseReadRepository, ICourseWriteRepository courseWriteRepository)
+
+        public CatalogController(ICourseReadRepository courseReadRepository, ICourseWriteRepository courseWriteRepository, IMediator mediator)
         {
             _courseReadRepository = courseReadRepository;
             _courseWriteRepository = courseWriteRepository;
+            _mediator = mediator;
         }
 
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> Get([FromQuery] GetAllCourseQueryRequest getAllCourseQueryRequest)
         {
-            var courses= _courseReadRepository.GetAll();
-            return Ok(courses);
+
+       GetAllCourseQueryResponse response=   await  _mediator.Send(getAllCourseQueryRequest); 
+        return Ok(response);
+
 
 
             /*await _courseWriteRepository.AddRangeAsync(new()
@@ -33,11 +42,26 @@ namespace CourseSalesAPI.API.Controllers
             await _courseWriteRepository.SaveAsync();*/
         }
 
-        [HttpGet("GetCourses")] // Endpoint: api/Catalog/GetCourses
-        public IActionResult GetCourses()
+
+        [HttpPost]
+        public async Task<IActionResult> Post(CreateCourseCommandRequest createCourseCommandRequest)
         {
-            var courses = _courseReadRepository.GetAll();
-            return Ok(courses);
+         CreateCourseCommandResponse response=await   _mediator.Send(createCourseCommandRequest);
+            return StatusCode((int)HttpStatusCode.Created);
+        }
+
+
+
+        [HttpGet("GetCourses")] // Endpoint: api/Catalog/GetCourses
+        public async  Task<IActionResult> GetCourses([FromQuery] GetAllCourseQueryRequest getAllCourseQueryRequest)
+        {
+            GetAllCourseQueryResponse response = await _mediator.Send(getAllCourseQueryRequest);
+            return Ok(response);
+
+
+
+           /* var courses = _courseReadRepository.GetAll();
+            return Ok(courses);*/
         }
 
         [HttpGet("GetCourseById/{id}")]
