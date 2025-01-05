@@ -1,0 +1,18 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Tüm sayfa yüksekliğini kapsar */
+  }
+  
+  .content {
+    flex: 1; /* İçeriği esnek hale getirir, footer'ı alta iter */
+  }
+  
+  .footer {
+    background-color: #282c34;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+    border-top: 1px solid #444;
+  }
+  

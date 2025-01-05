@@ -1,57 +1,54 @@
-/* Sayfa arkaplanı */
-body {
-    background-color: rgb(240, 240, 240); /* Siyah */
-    color: #000000; /* Beyaz */
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-/* Başlık */
-h1 {
-    color: rgb(0, 0, 0); /* Kırmızı */
+.course-detail-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .course-detail-card {
+    max-width: 600px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
     text-align: center;
-}
-
-/* Açık artırma öğesi içeriği */
-.auction-item {
-    background-color: white; /* Gri */
-    border: 2px solid #dfc1c1; /* Kırmızı */
-    border-radius: 10px;
-    padding: 20px;
-    margin: 20px;
-}
-
-/* Teklif verme formu */
-.bid-form {
-    background-color: #555; /* Daha koyu bir gri */
-    border: 2px solid #FF0000; /* Kırmızı */
-    border-radius: 10px;
-    padding: 20px;
-    margin: 20px;
-}
-
-
-label {
-    color: #FF0000; /* Kırmızı */
-}
-
-input[type="text"] {
-    width: 100%;
-    padding: 10px;
-    margin: 10px 0;
-}
-
-
-button {
-    background-color: #FF0000; /* Kırmızı */
-    color: #fff; /* Beyaz */
-    border: none;
+  }
+  
+  .course-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .course-title {
+    font-size: 24px;
+    margin: 15px 0;
+  }
+  
+  .course-info p {
+    margin: 5px 0;
+  }
+  
+  .add-to-basket-btn {
+    margin-top: 15px;
     padding: 10px 20px;
-    border-radius: 5px;
+    font-size: 16px;
     cursor: pointer;
-}
-
-button:hover {
-    background-color: #FF3333; /* Kırmızının bir ton daha açığı */
-}
+  }
+  
+  .error-message {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #ffe6e6;
+    border: 1px solid #ff0000;
+    color: #ff0000;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  .error-message p {
+    margin: 0;
+  }
+  
