@@ -28,6 +28,7 @@ namespace CourseSalesAPI.Application.Feautures.Queries.Course.GetByIdCourse
                 Price = course.Price,
                 Description = course.Description,
                 Category = course.Category,
+                Image=course.Image,
 
             };
         }

@@ -1,0 +1,5 @@
+wwwroot\images\c71c275f-df80-4aca-8c7c-65be9df64e5b.png
+wwwroot\uploads\courses\102ba4b4-cc33-49ae-b69f-8aa4cfe89e82.png
+wwwroot\uploads\courses\3cde41b5-da5a-4573-af24-0a365220d679.png
+wwwroot\uploads\courses\90aaa42d-759b-4413-bfdf-a1bffc9264f3.jpg
+wwwroot\uploads\courses\e1beabac-3a75-4a9b-b476-fb5755fbd592.PNG

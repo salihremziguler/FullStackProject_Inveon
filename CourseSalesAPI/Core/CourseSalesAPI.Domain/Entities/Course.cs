@@ -15,8 +15,10 @@ namespace CourseSalesAPI.Domain.Entities
 
         public string Category { get; set; }
 
-        public ICollection<CourseImageFile> CourseImageFiles { get; set; }
+      
+        public ICollection<BasketItem> BasketItems { get; set; }
 
+        public string Image { get; set; }
 
     }
 }

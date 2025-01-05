@@ -7,11 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.2">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Serilog" Version="4.2.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.2" />
+    <PackageReference Include="Serilog.Sinks.MSSqlServer" Version="8.1.0" />
+    <PackageReference Include="Serilog.Sinks.Seq" Version="8.0.0" />
+    <PackageReference Include="Stripe.net" Version="47.2.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
@@ -19,6 +25,13 @@
     <ProjectReference Include="..\..\Core\CourseSalesAPI.Application\CourseSalesAPI.Application.csproj" />
     <ProjectReference Include="..\..\Infrastructure\CourseSalesAPI.Infrastructure\CourseSalesAPI.Infrastructure.csproj" />
     <ProjectReference Include="..\..\Infrastructure\CourseSalesAPI.Persistance\CourseSalesAPI.Persistance.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Middlewares\" />
+    <Folder Include="images\" />
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\photo-images\" />
   </ItemGroup>
 
 </Project>

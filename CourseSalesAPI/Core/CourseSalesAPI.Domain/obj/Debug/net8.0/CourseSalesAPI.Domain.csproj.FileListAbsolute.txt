@@ -9,3 +9,4 @@ C:\Users\slhgl\source\repos\CourseSalesAPI\Core\CourseSalesAPI.Domain\obj\Debug\
 C:\Users\slhgl\source\repos\CourseSalesAPI\Core\CourseSalesAPI.Domain\obj\Debug\net8.0\refint\CourseSalesAPI.Domain.dll
 C:\Users\slhgl\source\repos\CourseSalesAPI\Core\CourseSalesAPI.Domain\obj\Debug\net8.0\CourseSalesAPI.Domain.pdb
 C:\Users\slhgl\source\repos\CourseSalesAPI\Core\CourseSalesAPI.Domain\obj\Debug\net8.0\ref\CourseSalesAPI.Domain.dll
+C:\Users\slhgl\source\repos\CourseSalesAPI\Core\CourseSalesAPI.Domain\obj\Debug\net8.0\CourseSalesAPI.Domain.csproj.AssemblyReference.cache
