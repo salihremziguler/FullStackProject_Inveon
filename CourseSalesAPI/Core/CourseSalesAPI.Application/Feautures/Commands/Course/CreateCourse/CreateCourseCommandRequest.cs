@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,7 @@ namespace CourseSalesAPI.Application.Feautures.Commands.Course.CreateCourse
         public decimal Price { get; set; }
       
         public string Category { get; set; }
+        public IFormFile Image { get; set; }
 
     }
 }

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\images\\c71c275f-df80-4aca-8c7c-65be9df64e5b.png",
+      "PackagePath": "staticwebassets\\images\\c71c275f-df80-4aca-8c7c-65be9df64e5b.png"
+    },
+    {
+      "Id": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\102ba4b4-cc33-49ae-b69f-8aa4cfe89e82.png",
+      "PackagePath": "staticwebassets\\uploads\\courses\\102ba4b4-cc33-49ae-b69f-8aa4cfe89e82.png"
+    },
+    {
+      "Id": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\3cde41b5-da5a-4573-af24-0a365220d679.png",
+      "PackagePath": "staticwebassets\\uploads\\courses\\3cde41b5-da5a-4573-af24-0a365220d679.png"
+    },
+    {
+      "Id": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\90aaa42d-759b-4413-bfdf-a1bffc9264f3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\courses\\90aaa42d-759b-4413-bfdf-a1bffc9264f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\e1beabac-3a75-4a9b-b476-fb5755fbd592.PNG",
+      "PackagePath": "staticwebassets\\uploads\\courses\\e1beabac-3a75-4a9b-b476-fb5755fbd592.PNG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CourseSalesAPI.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CourseSalesAPI.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CourseSalesAPI.API.props",
+      "PackagePath": "build\\CourseSalesAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CourseSalesAPI.API.props",
+      "PackagePath": "buildMultiTargeting\\CourseSalesAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CourseSalesAPI.API.props",
+      "PackagePath": "buildTransitive\\CourseSalesAPI.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

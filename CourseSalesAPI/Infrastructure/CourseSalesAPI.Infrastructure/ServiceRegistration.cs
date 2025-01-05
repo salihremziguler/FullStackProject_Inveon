@@ -1,7 +1,9 @@
 ﻿using CourseSalesAPI.Application.Abstractions.Storage;
+using CourseSalesAPI.Application.Abstractions.Token;
 using CourseSalesAPI.Infrastructure.Enums;
 using CourseSalesAPI.Infrastructure.Services.Storage;
 using CourseSalesAPI.Infrastructure.Services.Storage.Local;
+using CourseSalesAPI.Infrastructure.Services.Token;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -16,7 +18,7 @@ namespace CourseSalesAPI.Infrastructure
         public static void AddInfrastructureServices(this IServiceCollection serviceCollection)
         {
             serviceCollection.AddScoped<IStorageService, StorageService>();
-      
+            serviceCollection.AddScoped<ITokenHandler, TokenHandler>();
         }
 
         public static void AddStorage<T>(this IServiceCollection serviceCollection) where T : Storage, IStorage

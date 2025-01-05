@@ -13,5 +13,6 @@ namespace CourseSalesAPI.Application.Feautures.Queries.Course.GetByIdCourse
         public decimal Price { get; set; }
 
         public string Category { get; set; }
+        public string Image { get; set; }
     }
 }

@@ -26,12 +26,13 @@ namespace CourseSalesAPI.Application.Feautures.Queries.Course.GetAllCourse
 
         public async Task<GetAllCourseQueryResponse> Handle(GetAllCourseQueryRequest request, CancellationToken cancellationToken)
         {
-            _logger.LogInformation("Get all courses");
+            //_logger.LogInformation("Get all courses");
 
             var totalCourseCount = _courseReadRepository.GetAll(false).Count();
 
-            var courses = _courseReadRepository.GetAll(false).Skip(request.Page * request.Size).Take(request.Size)
-                .Include(p => p.CourseImageFiles)
+            var courses = _courseReadRepository.GetAll(false)
+                .Skip(request.Page * request.Size)
+                .Take(request.Size)
                 .Select(p => new
                 {
                     p.Id,
@@ -41,17 +42,15 @@ namespace CourseSalesAPI.Application.Feautures.Queries.Course.GetAllCourse
                     p.CreatedDate,
                     p.UpdatedDate,
                     p.Category,
-                    p.CourseImageFiles
+                    p.Image // Resim URL'sini döndür
                 }).ToList();
-
 
             return new()
             {
                 Courses = courses,
                 TotalCourseCount = totalCourseCount
             };
-
-
         }
+
     }
 }
