@@ -12,10 +12,16 @@ function CourseList() {
   const [pageSize] = useState(10); // Sayfa başına kurs sayısı
   const { data, isLoading } = useGetCoursesQuery({ page: currentPage, size: pageSize });
   const [courses, setCourses] = useState<courseModel[]>([]);
+  const [filteredCourses, setFilteredCourses] = useState<courseModel[]>([]);
 
   useEffect(() => {
     if (data?.courses) {
-      setCourses(data.courses);
+      if (Array.isArray(data.courses)) {
+        setCourses(data.courses);
+        setFilteredCourses(data.courses);
+      } else {
+        console.warn('Unexpected data structure:', data);
+      }
     }
   }, [data]);
 
@@ -24,7 +30,7 @@ function CourseList() {
     const filtered = courses.filter((course) =>
       course.name.toLowerCase().includes(lowercasedSearchTerm)
     );
-    setCourses(filtered);
+    setFilteredCourses(filtered);
   };
 
   const handlePageChange = (page: number) => {
@@ -37,8 +43,8 @@ function CourseList() {
       <div className="course-grid">
         {isLoading ? (
           <Loader />
-        ) : courses && courses.length > 0 ? (
-          courses.map((course, index) => (
+        ) : filteredCourses && filteredCourses.length > 0 ? (
+          filteredCourses.map((course, index) => (
             <div className="course-card" key={index}>
               <div className="course-image-wrapper">
                 <img
@@ -54,8 +60,12 @@ function CourseList() {
                     ? `${course.description.substring(0, 100)}...`
                     : course.description}
                 </p>
-                <p className="course-price"><strong>Price:</strong> ${course.price}</p>
-                <p className="course-category"><strong>Category:</strong> {course.category}</p>
+                <p className="course-price">
+                  <strong>Price:</strong> ${course.price}
+                </p>
+                <p className="course-category">
+                  <strong>Category:</strong> {course.category}
+                </p>
               </div>
               <Link to={`Course/CourseId/${course.id}`} className="details-link">
                 <button className="btn btn-primary">Detaylar</button>
