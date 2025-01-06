@@ -1,0 +1,100 @@
+.basket-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto; /* Ortalamak için */
+  display: flex;
+  flex-direction: column; /* Dikey hizalama */
+  align-items: center; /* İçeriği yatay olarak ortala */
+  text-align: center;
+}
+
+.basket-header-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.basket-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Kartları ortalar */
+  gap: 20px; /* Kartlar arasındaki boşluğu artırır */
+}
+
+.basket-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px; /* Kart genişliği */
+  text-align: center;
+}
+
+.basket-item-image {
+  max-width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.basket-item-details {
+  width: 100%;
+}
+
+.basket-item-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.basket-item-category,
+.basket-item-price {
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+.basket-item-remove-button {
+  margin-top: 10px;
+  background-color: #dc3545;
+  border: none;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.basket-item-remove-button:hover {
+  background-color: #c82333;
+}
+
+.basket-summary {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.purchase-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.purchase-button:hover {
+  background-color: #0056b3;
+}
+
+.error-message {
+  text-align: center;
+  color: #dc3545;
+  font-size: 16px;
+  margin-top: 20px;
+}

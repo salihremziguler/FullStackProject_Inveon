@@ -1,16 +1,36 @@
-import React from 'react';
-import './Styles/Header.css';
-import { NavLink } from 'react-router-dom';
-
+import React, { useEffect } from "react";
+import "./Styles/Header.css";
+import { NavLink, useNavigate } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { RootState } from "../Storage/store";
+import { InitialState, setLoggedInUser } from "../Storage/Redux/authenticationSlice";
 
 function Header() {
+  const userStore = useSelector((state: RootState) => state.authenticationStore);
+  const token = localStorage.getItem("token");
+  const dispatch = useDispatch();
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    console.log("User Store:", userStore);
+  }, [userStore]);
+
+  const handleLogout = () => {
+    localStorage.removeItem("token");
+    dispatch(setLoggedInUser({ ...InitialState }));
+    navigate("/");
+  };
+
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-gray">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container">
+          {/* Logo */}
           <NavLink className="navbar-brand" to="/">
-            My Galaxy Auction
+            <span style={{ color: "#A435F0" }}>I</span>nveon
           </NavLink>
+
+          {/* Navbar Toggler for Mobile */}
           <button
             className="navbar-toggler"
             type="button"
@@ -23,43 +43,75 @@ function Header() {
             <span className="navbar-toggler-icon"></span>
           </button>
 
+          {/* Navbar Links */}
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul className="navbar-nav mr-auto">
-              <div className="collapse navbar-collapse mr-2" id="navbarNavDarkDropdown">
-                <ul className="navbar-nav">
-                  <li className="nav-item dropdown">
-                    <button
-                      className="btn btn-dark dropdown-toggle"
-                      data-bs-toggle="dropdown"
-                      aria-expanded="false"
-                    >
-                      Menu's
-                    </button>
-                    <ul className="dropdown-menu dropdown-menu-dark">
-                      <li>
-                        <NavLink className="dropdown-item" to="/Admin/VehicleIndex">
-                          Vehicle List
-                        </NavLink>
-                      </li>
-                    </ul>
+            <ul className="navbar-nav me-auto">
+              {/* Kullanıcı Adı */}
+              {userStore?.name && (
+                <li className="nav-item">
+                  <p className="nav-link" >
+                    
+                  </p>
+                </li>
+              )}
+            </ul>
+
+
+
+            <ul className="navbar-nav">
+              {/* Siparişlerim */}
+              <li className="nav-item me-2">
+                <NavLink className="btn btn-link" to="/order">
+                  <i className="fas fa-box"></i> Siparişlerim
+                </NavLink>
+              </li>
+
+              {/* Sepet */}
+              <li className="nav-item me-2">
+                <NavLink className="btn btn-link" to="/basket">
+                  <i className="fas fa-shopping-cart"></i> Sepet
+                </NavLink>
+              </li>
+
+              {/* Kurs Ekleme Butonu */}
+              {userStore.role === "salih" && (
+                <li className="nav-item me-2">
+                  <NavLink className="btn btn-success" to="/createcourse">
+                    <i className="fas fa-plus-circle"></i> Kurs Ekle
+                  </NavLink>
+                </li>
+              )}
+
+            {userStore?.name && (
+                <li className="nav-item me-2">
+                  <NavLink className="btn btn-info" to="/updateuser">
+                    <i className="fas fa-user"></i> Bilgilerim
+                  </NavLink>
+                </li>
+              )}
+
+              {/* Kullanıcı Giriş ve Çıkış */}
+              {userStore?.name ? (
+                <li className="nav-item me-2">
+                  {/* Çıkış Yap Butonu */}
+                  <button className="btn btn-outline-dark" onClick={handleLogout}>
+                    Çıkış Yap
+                  </button>
+                </li>
+              ) : (
+                <>
+                  <li className="nav-item me-2">
+                    <NavLink className="btn btn-outline-dark" to="/login">
+                      Oturum Aç
+                    </NavLink>
                   </li>
-                </ul>
-              </div>
-              <li className="nav-item" style={{ marginRight: '5px' }}>
-                <NavLink className="btn btn-success" to="/register">
-                  Register
-                </NavLink>
-              </li>
-              <li className="nav-item" style={{ marginRight: '5px' }}>
-                <NavLink className="btn btn-success" to="/login">
-                  Login
-                </NavLink>
-              </li>
-              <li className="nav-item" style={{ marginRight: '5px' }}>
-                <NavLink className="btn btn-success" to="/login">
-                  Kurs Ekle
-                </NavLink>
-              </li>
+                  <li className="nav-item">
+                    <NavLink className="btn btn-dark text-white" to="/register">
+                      Kaydol
+                    </NavLink>
+                  </li>
+                </>
+              )}
             </ul>
           </div>
         </div>

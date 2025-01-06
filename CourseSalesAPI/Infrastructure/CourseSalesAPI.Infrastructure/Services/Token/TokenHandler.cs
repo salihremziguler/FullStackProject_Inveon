@@ -1,5 +1,6 @@
 ﻿using CourseSalesAPI.Application.Abstractions.Token;
 using CourseSalesAPI.Domain.Entities.Identity;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;
@@ -15,33 +16,40 @@ namespace CourseSalesAPI.Infrastructure.Services.Token
 {
     public class TokenHandler : ITokenHandler
     {
-        readonly IConfiguration _configuration;
+        private readonly IConfiguration _configuration;
+        private readonly UserManager<AppUser> _userManager;
 
-        public TokenHandler(IConfiguration configuration)
+        public TokenHandler(IConfiguration configuration, UserManager<AppUser> userManager)
         {
             _configuration = configuration;
+            _userManager = userManager;
         }
 
-        public Application.DTOs.Token CreateAccessToken(int second, AppUser user)
+        public async Task<Application.DTOs.Token> CreateAccessToken(int second, AppUser user)
         {
             Application.DTOs.Token token = new();
 
-            // Güvenlik anahtarı oluşturma
+       
             SymmetricSecurityKey securityKey = new(Encoding.UTF8.GetBytes(_configuration["Token:SecurityKey"]));
 
-            // İmzalama bilgileri
+      
             SigningCredentials signingCredentials = new(securityKey, SecurityAlgorithms.HmacSha256);
 
-            // Token süresi
+     
             token.Expiration = DateTime.UtcNow.AddSeconds(second);
 
-            // Claim listesi (Adı özelleştirilmiş)
-            var claims = new List<Claim>
-    {
-        new("name", user.UserName) // "http://schemas.xmlsoap.org/..." yerine sadece "name"
-    };
+          
+            var roles = await _userManager.GetRolesAsync(user);
 
-            // JWT oluşturma
+            var claims = new List<Claim>
+            {
+                new("name", user.UserName),
+                new("userId",user.Id)
+
+            };
+
+            claims.AddRange(roles.Select(role => new Claim("role", role)));
+
             JwtSecurityToken securityToken = new(
                 audience: _configuration["Token:Audience"],
                 issuer: _configuration["Token:Issuer"],
@@ -51,16 +59,15 @@ namespace CourseSalesAPI.Infrastructure.Services.Token
                 claims: claims
             );
 
-            // Token oluşturucu sınıf
+
             JwtSecurityTokenHandler tokenHandler = new();
             token.AccessToken = tokenHandler.WriteToken(securityToken);
 
-            // Refresh token oluşturma
+
             token.RefreshToken = CreateRefreshToken();
 
             return token;
         }
-
 
 
 

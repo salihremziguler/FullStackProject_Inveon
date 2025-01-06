@@ -10,7 +10,7 @@ namespace CourseSalesAPI.Application.Feautures.Queries.Basket.GetBasketItems
     {
         public string BasketItemId { get; set; }
         public string Name { get; set; }
-        public float Price { get; set; }
+        public decimal Price { get; set; }
         public string Image { get; set; }
         public string Category { get; set; }
       

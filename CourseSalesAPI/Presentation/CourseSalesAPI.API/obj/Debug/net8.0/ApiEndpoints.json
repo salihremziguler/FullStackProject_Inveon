@@ -96,22 +96,6 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CourseSalesAPI.API.Controllers.BasketsController",
-    "Method": "UpdateUser",
-    "RelativePath": "api/Baskets/update-user",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "updateUserRequest",
-        "Type": "CourseSalesAPI.Application.Feautures.Commands.AppUSer.UpdateUser.UpdateUserCommandRequest",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "CourseSalesAPI.API.Controllers.CatalogController",
     "Method": "Get",
     "RelativePath": "api/Catalog",
@@ -254,47 +238,6 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CourseSalesAPI.API.Controllers.CatalogController",
-    "Method": "Upload2",
-    "RelativePath": "api/Catalog/Upload2",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CourseSalesAPI.API.Controllers.CatalogController",
-    "Method": "UploadImage",
-    "RelativePath": "api/Catalog/UploadImage/{id}",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "Image",
-        "Type": "Microsoft.AspNetCore.Http.IFormFile",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CourseSalesAPI.API.Controllers.OrdersController",
-    "Method": "GetUserOrders",
-    "RelativePath": "api/Orders/UserOrders",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "CourseSalesAPI.API.Controllers.PaymentController",
     "Method": "MakePayment",
     "RelativePath": "api/Payment/Pay",
@@ -405,6 +348,22 @@
       {
         "Name": "Id",
         "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseSalesAPI.API.Controllers.UserEditController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/UserEdit/update-user",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateUserRequest",
+        "Type": "CourseSalesAPI.Application.Feautures.Commands.AppUSer.UpdateUser.UpdateUserCommandRequest",
         "IsRequired": true
       }
     ],

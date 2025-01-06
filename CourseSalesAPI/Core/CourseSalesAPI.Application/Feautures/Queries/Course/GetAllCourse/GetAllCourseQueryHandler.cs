@@ -26,7 +26,7 @@ namespace CourseSalesAPI.Application.Feautures.Queries.Course.GetAllCourse
 
         public async Task<GetAllCourseQueryResponse> Handle(GetAllCourseQueryRequest request, CancellationToken cancellationToken)
         {
-            //_logger.LogInformation("Get all courses");
+           
 
             var totalCourseCount = _courseReadRepository.GetAll(false).Count();
 
@@ -42,7 +42,7 @@ namespace CourseSalesAPI.Application.Feautures.Queries.Course.GetAllCourse
                     p.CreatedDate,
                     p.UpdatedDate,
                     p.Category,
-                    p.Image // Resim URL'sini döndür
+                    p.Image
                 }).ToList();
 
             return new()

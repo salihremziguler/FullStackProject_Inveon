@@ -9,7 +9,7 @@ namespace CourseSalesAPI.Application.Feautures.Queries.Course.GetAllCourse
 {
     public class GetAllCourseQueryRequest : IRequest<GetAllCourseQueryResponse>
     {
-        //public Pagination Pagination { get; set; }
+        
         public int Page { get; set; } = 0;
         public int Size { get; set; } = 15;
     }

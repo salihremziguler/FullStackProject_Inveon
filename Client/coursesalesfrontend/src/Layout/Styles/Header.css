@@ -1,7 +1,41 @@
-button:focus {
-    outline: 0;
-}
 
-.navbar .dropdown-menu .form-control {
-    width: 200px;
-}
+.navbar {
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .search-bar {
+    border-radius: 20px;
+    padding: 10px;
+    max-width: 500px;
+    border: 1px solid #ddd;
+  }
+  
+  .navbar-nav .btn-outline-dark {
+    border: 1px solid #000;
+    color: #000;
+    border-radius: 5px;
+    padding: 5px 15px;
+  }
+  
+  .navbar-nav .btn-outline-dark:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .navbar-nav .btn-dark {
+    background-color: #000;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px 15px;
+  }
+  
+  .navbar-nav .btn-dark:hover {
+    background-color: #333;
+  }
+  

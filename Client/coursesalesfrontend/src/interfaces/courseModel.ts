@@ -4,5 +4,6 @@ export interface courseModel {
     price: number
     category: string
     id: string
+    image: string;
   }
   

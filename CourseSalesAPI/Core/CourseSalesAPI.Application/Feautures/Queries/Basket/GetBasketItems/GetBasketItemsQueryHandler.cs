@@ -27,7 +27,7 @@ namespace CourseSalesAPI.Application.Feautures.Queries.Basket.GetBasketItems
                 Name = ba.Course.Name,
                 Category=ba.Course.Category,
                 Image=ba.Course.Image,
-               // Price = ba.Course.Price,
+                Price = ba.Course.Price,
                
             }).ToList();
         }

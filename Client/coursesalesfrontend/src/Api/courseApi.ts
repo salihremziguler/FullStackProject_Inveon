@@ -7,13 +7,39 @@ const courseApi = createApi({
   }),
   endpoints: (builder) => ({
     getCourses: builder.query({
-      query: () => 'GetCourses', // Tüm kursları getiren endpoint
+      query: ({ page, size }) => `GetCourses?page=${page}&size=${size}`,
     }),
     getCourseById: builder.query({
-      query: (id) => `GetCourseById/${id}`, // Belirli bir kursu ID'ye göre getiren endpoint
+      query: (id) => `GetCourseById/${id}`,
+    }),
+    addCourseWithImage: builder.mutation({
+      query: (formData) => ({
+        url: 'AddCourseWithImage',
+        method: 'POST',
+        body: formData,
+      }),
+    }),
+    updateCourse: builder.mutation({
+      query: (updatedCourse) => ({
+        url: '',
+        method: 'PUT',
+        body: updatedCourse,
+      }),
+    }),
+    deleteCourse: builder.mutation({
+      query: (id) => ({
+        url: `${id}`,
+        method: 'DELETE',
+      }),
     }),
   }),
 });
 
-export const { useGetCoursesQuery, useGetCourseByIdQuery } = courseApi;
+export const {
+  useGetCoursesQuery,
+  useGetCourseByIdQuery,
+  useAddCourseWithImageMutation,
+  useUpdateCourseMutation,
+  useDeleteCourseMutation,
+} = courseApi;
 export default courseApi;
