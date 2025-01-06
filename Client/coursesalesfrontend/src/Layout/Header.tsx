@@ -49,14 +49,12 @@ function Header() {
               {/* Kullanıcı Adı */}
               {userStore?.name && (
                 <li className="nav-item">
-                  <p className="nav-link" >
-                    
-                  </p>
+                  <a className="nav-link" href="#">
+                    {userStore.name}
+                  </a>
                 </li>
               )}
             </ul>
-
-
 
             <ul className="navbar-nav">
               {/* Siparişlerim */}
@@ -82,7 +80,8 @@ function Header() {
                 </li>
               )}
 
-            {userStore?.name && (
+              {/* Bilgilerim */}
+              {userStore?.name && (
                 <li className="nav-item me-2">
                   <NavLink className="btn btn-info" to="/updateuser">
                     <i className="fas fa-user"></i> Bilgilerim

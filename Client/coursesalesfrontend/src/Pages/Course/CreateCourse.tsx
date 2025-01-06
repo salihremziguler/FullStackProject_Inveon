@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useAddCourseWithImageMutation } from '../../Api/courseApi';
 import styles from './Styles/CreateCourse.module.css'; // CSS Module dosyasını içeri aktarıyoruz.
+import { Loader } from '../../Helper';
 
 function AddCourse() {
   const [name, setName] = useState('');
@@ -28,25 +29,25 @@ function AddCourse() {
 
     try {
       await addCourseWithImage(formData).unwrap();
-      alert('Kurs başarılı bir şekilde eklendi');
+      alert('Course added successfully!');
       setName('');
       setDescription('');
       setPrice('');
       setCategory('');
       setImage(null);
     } catch (error) {
-      console.error('Kurs eklerken hata oluştu:', error);
-      alert('Kurs eklerken hata oluştu');
+      console.error('Failed to add course:', error);
+      alert('Failed to add course.');
     }
   };
 
   return (
     <div className={styles.container}>
       <h2 className={styles.title}>Add New Course</h2>
-      {isLoading && <div className={styles.loader}></div>}
+      {isLoading && <Loader />} {/* Loader gösterimi */}
       <form onSubmit={handleSubmit} className={styles.form}>
         <div className={styles.group}>
-          <label htmlFor="course-name" className={styles.label}>Kurs Adı</label>
+          <label htmlFor="course-name" className={styles.label}>Course Name</label>
           <input
             id="course-name"
             type="text"
@@ -59,7 +60,7 @@ function AddCourse() {
         </div>
 
         <div className={styles.group}>
-          <label htmlFor="course-description" className={styles.label}>Açıklama</label>
+          <label htmlFor="course-description" className={styles.label}>Description</label>
           <textarea
             id="course-description"
             value={description}
@@ -71,7 +72,7 @@ function AddCourse() {
         </div>
 
         <div className={styles.group}>
-          <label htmlFor="course-price" className={styles.label}>Fiyat</label>
+          <label htmlFor="course-price" className={styles.label}>Price</label>
           <input
             id="course-price"
             type="number"
@@ -84,7 +85,7 @@ function AddCourse() {
         </div>
 
         <div className={styles.group}>
-          <label htmlFor="course-category" className={styles.label}>Kategori</label>
+          <label htmlFor="course-category" className={styles.label}>Category</label>
           <input
             id="course-category"
             type="text"
@@ -97,7 +98,7 @@ function AddCourse() {
         </div>
 
         <div className={styles.group}>
-          <label htmlFor="course-image" className={styles.label}>Görsel</label>
+          <label htmlFor="course-image" className={styles.label}>Image</label>
           <input
             id="course-image"
             type="file"
@@ -109,7 +110,7 @@ function AddCourse() {
         </div>
 
         <button type="submit" className={styles.button} disabled={isLoading}>
-          {isLoading ? 'Ekleniyor...' : 'Kurs Ekle'}
+          {isLoading ? 'Adding...' : 'Add Course'}
         </button>
       </form>
     </div>

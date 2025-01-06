@@ -10,12 +10,11 @@ function UpdateUserForm() {
 
   const [updateUser, { isLoading }] = useUpdateUserMutation();
 
-  const handleSubmit = async (e) => {
+  const handleUpdate = async (e) => {
     e.preventDefault();
-
     try {
       const response = await updateUser(formData).unwrap();
-      alert(response.message); // API'den dönen mesajı göster
+      alert(response.message || 'Kullanıcı bilgileri güncellendi'); // API'den dönen mesajı göster
     } catch (error) {
       console.error('Failed to update user:', error);
       alert('Kullanıcı bilgileri güncellenemedi.');
@@ -33,7 +32,7 @@ function UpdateUserForm() {
   return (
     <div style={{ maxWidth: '400px', margin: 'auto', padding: '20px', border: '1px solid #ccc', borderRadius: '10px' }}>
       <h2>Kullanıcı Bilgilerini Güncelle</h2>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleUpdate}>
         <div style={{ marginBottom: '15px' }}>
           <label htmlFor="nameSurname" style={{ display: 'block', marginBottom: '5px' }}>Ad Soyad</label>
           <input

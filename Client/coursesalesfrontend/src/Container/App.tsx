@@ -22,6 +22,7 @@ function App() {
       <Header></Header>
       <div className="pb-5">
         <Routes>
+
         <Route path="/" element={<Layout />}>
           <Route path="/" element={<CourseList />} />
           <Route path="Course/CourseId/:courseId" element={<CourseDetail />} />
@@ -37,9 +38,7 @@ function App() {
           <Route path="/updateuser" element={<UpdateUser />} />
          
 
-
           </Route>
-
         </Routes>
       </div>
     </div>
