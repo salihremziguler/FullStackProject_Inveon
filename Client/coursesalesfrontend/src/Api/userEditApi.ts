@@ -19,9 +19,17 @@ const userEditApi = createApi({
         method: 'PUT',
         body: userData,
       }),
+      
     }),
-  }),
-});
+    deleteUser: builder.mutation({
+      query: (userId) => ({
+        url: `delete-user/${userId}`,
+        method: "DELETE",
+      })
 
-export const { useUpdateUserMutation } = userEditApi;
+  })
+})
+})
+
+export const { useUpdateUserMutation,useDeleteUserMutation  } = userEditApi;
 export default userEditApi;
