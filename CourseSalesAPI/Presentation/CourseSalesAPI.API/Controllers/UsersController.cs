@@ -2,8 +2,12 @@
 using CourseSalesAPI.Application.Feautures.Commands.AppUSer.CreateUser;
 using CourseSalesAPI.Application.Feautures.Commands.AppUSer.GoogleLogin;
 using CourseSalesAPI.Application.Feautures.Commands.AppUSer.LoginUser;
+using CourseSalesAPI.Application.Feautures.Commands.AppUSer.UpdateUser;
+using CourseSalesAPI.Domain.Entities.Identity;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CourseSalesAPI.API.Controllers
@@ -34,6 +38,9 @@ namespace CourseSalesAPI.API.Controllers
             AssignRoleToUserCommandResponse response = await _mediator.Send(assignRoleToUserCommandRequest);
             return Ok(response);
         }
+
+
+        
 
 
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jYslGH1/eJsX0tXuAR6G6wmxfJLQ0nKf4waRpwsmlBM=",
+  "Hash": "v8QPuJIk3zOMCchmkgCv7Q4hDO5/oMp1kpWQEkIs3Hk=",
   "Source": "CourseSalesAPI.API",
   "BasePath": "_content/CourseSalesAPI.API",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\courses\\102ba4b4-cc33-49ae-b69f-8aa4cfe89e82.png"
     },
     {
+      "Identity": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\18bd4d4c-8536-4490-9fe7-77017f1ebfc0.jpg",
+      "SourceId": "CourseSalesAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\",
+      "BasePath": "_content/CourseSalesAPI.API",
+      "RelativePath": "uploads/courses/18bd4d4c-8536-4490-9fe7-77017f1ebfc0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q3y9frv1yf",
+      "Integrity": "5v8lCPJ/uQlP6jsAEdTcLeJ/L/CCyGVFPuqfPJ9lWdI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\courses\\18bd4d4c-8536-4490-9fe7-77017f1ebfc0.jpg"
+    },
+    {
       "Identity": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\3cde41b5-da5a-4573-af24-0a365220d679.png",
       "SourceId": "CourseSalesAPI.API",
       "SourceType": "Discovered",
@@ -80,6 +101,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\courses\\3cde41b5-da5a-4573-af24-0a365220d679.png"
     },
     {
+      "Identity": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\7a733759-44eb-4a22-b591-45e44f819467.PNG",
+      "SourceId": "CourseSalesAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\",
+      "BasePath": "_content/CourseSalesAPI.API",
+      "RelativePath": "uploads/courses/7a733759-44eb-4a22-b591-45e44f819467#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dtn2h2bs7q",
+      "Integrity": "EY5OqthKNeUqsgkTtGM0HopNbMgmCut/NzT7Gm7JFwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\courses\\7a733759-44eb-4a22-b591-45e44f819467.PNG"
+    },
+    {
       "Identity": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\90aaa42d-759b-4413-bfdf-a1bffc9264f3.jpg",
       "SourceId": "CourseSalesAPI.API",
       "SourceType": "Discovered",
@@ -99,6 +141,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\courses\\90aaa42d-759b-4413-bfdf-a1bffc9264f3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\b148358f-0029-46eb-b67f-49b448bfb44d.png",
+      "SourceId": "CourseSalesAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\",
+      "BasePath": "_content/CourseSalesAPI.API",
+      "RelativePath": "uploads/courses/b148358f-0029-46eb-b67f-49b448bfb44d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0rpbbgavlp",
+      "Integrity": "HOLFv1bJtUYIX1o2svOkVpJMKEnRXfO+CGwXzV40FgQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\courses\\b148358f-0029-46eb-b67f-49b448bfb44d.png"
+    },
+    {
+      "Identity": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\b6db2376-09e8-4f12-b29b-1e244883367c.jpg",
+      "SourceId": "CourseSalesAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\",
+      "BasePath": "_content/CourseSalesAPI.API",
+      "RelativePath": "uploads/courses/b6db2376-09e8-4f12-b29b-1e244883367c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g4q9t30z6j",
+      "Integrity": "gCoty0csSuTs3XZIqcDnIMbskXUnXsMXMiNiZwgm6iw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\courses\\b6db2376-09e8-4f12-b29b-1e244883367c.jpg"
     },
     {
       "Identity": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\e1beabac-3a75-4a9b-b476-fb5755fbd592.PNG",
@@ -288,6 +372,88 @@
       ]
     },
     {
+      "Route": "uploads/courses/18bd4d4c-8536-4490-9fe7-77017f1ebfc0.jpg",
+      "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\18bd4d4c-8536-4490-9fe7-77017f1ebfc0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5v8lCPJ/uQlP6jsAEdTcLeJ/L/CCyGVFPuqfPJ9lWdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 20:27:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5v8lCPJ/uQlP6jsAEdTcLeJ/L/CCyGVFPuqfPJ9lWdI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/courses/18bd4d4c-8536-4490-9fe7-77017f1ebfc0.q3y9frv1yf.jpg",
+      "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\18bd4d4c-8536-4490-9fe7-77017f1ebfc0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5v8lCPJ/uQlP6jsAEdTcLeJ/L/CCyGVFPuqfPJ9lWdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 20:27:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q3y9frv1yf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/courses/18bd4d4c-8536-4490-9fe7-77017f1ebfc0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5v8lCPJ/uQlP6jsAEdTcLeJ/L/CCyGVFPuqfPJ9lWdI="
+        }
+      ]
+    },
+    {
       "Route": "uploads/courses/3cde41b5-da5a-4573-af24-0a365220d679.albrsviifn.png",
       "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\3cde41b5-da5a-4573-af24-0a365220d679.png",
       "Selectors": [],
@@ -370,6 +536,88 @@
       ]
     },
     {
+      "Route": "uploads/courses/7a733759-44eb-4a22-b591-45e44f819467.dtn2h2bs7q.PNG",
+      "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\7a733759-44eb-4a22-b591-45e44f819467.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EY5OqthKNeUqsgkTtGM0HopNbMgmCut/NzT7Gm7JFwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 23:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dtn2h2bs7q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/courses/7a733759-44eb-4a22-b591-45e44f819467.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EY5OqthKNeUqsgkTtGM0HopNbMgmCut/NzT7Gm7JFwg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/courses/7a733759-44eb-4a22-b591-45e44f819467.PNG",
+      "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\7a733759-44eb-4a22-b591-45e44f819467.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EY5OqthKNeUqsgkTtGM0HopNbMgmCut/NzT7Gm7JFwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 23:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EY5OqthKNeUqsgkTtGM0HopNbMgmCut/NzT7Gm7JFwg="
+        }
+      ]
+    },
+    {
       "Route": "uploads/courses/90aaa42d-759b-4413-bfdf-a1bffc9264f3.jpg",
       "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\90aaa42d-759b-4413-bfdf-a1bffc9264f3.jpg",
       "Selectors": [],
@@ -448,6 +696,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-5v8lCPJ/uQlP6jsAEdTcLeJ/L/CCyGVFPuqfPJ9lWdI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/courses/b148358f-0029-46eb-b67f-49b448bfb44d.0rpbbgavlp.png",
+      "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\b148358f-0029-46eb-b67f-49b448bfb44d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOLFv1bJtUYIX1o2svOkVpJMKEnRXfO+CGwXzV40FgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 22:55:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0rpbbgavlp"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/courses/b148358f-0029-46eb-b67f-49b448bfb44d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOLFv1bJtUYIX1o2svOkVpJMKEnRXfO+CGwXzV40FgQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/courses/b148358f-0029-46eb-b67f-49b448bfb44d.png",
+      "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\b148358f-0029-46eb-b67f-49b448bfb44d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOLFv1bJtUYIX1o2svOkVpJMKEnRXfO+CGwXzV40FgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 22:55:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOLFv1bJtUYIX1o2svOkVpJMKEnRXfO+CGwXzV40FgQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/courses/b6db2376-09e8-4f12-b29b-1e244883367c.g4q9t30z6j.jpg",
+      "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\b6db2376-09e8-4f12-b29b-1e244883367c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gCoty0csSuTs3XZIqcDnIMbskXUnXsMXMiNiZwgm6iw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 22:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4q9t30z6j"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/courses/b6db2376-09e8-4f12-b29b-1e244883367c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gCoty0csSuTs3XZIqcDnIMbskXUnXsMXMiNiZwgm6iw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/courses/b6db2376-09e8-4f12-b29b-1e244883367c.jpg",
+      "AssetFile": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\wwwroot\\uploads\\courses\\b6db2376-09e8-4f12-b29b-1e244883367c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gCoty0csSuTs3XZIqcDnIMbskXUnXsMXMiNiZwgm6iw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 22:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gCoty0csSuTs3XZIqcDnIMbskXUnXsMXMiNiZwgm6iw="
         }
       ]
     },

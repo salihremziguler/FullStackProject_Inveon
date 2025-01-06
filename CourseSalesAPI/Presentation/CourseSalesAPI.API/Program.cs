@@ -26,7 +26,7 @@ using Microsoft.OpenApi.Models;
 
 
 var builder = WebApplication.CreateBuilder(args);
-//builder.WebHost.UseWebRoot("wwwroot");
+
 
 builder.Services.AddHttpContextAccessor();
 
@@ -47,14 +47,14 @@ var columnOptions = new ColumnOptions
 {
     AdditionalColumns = new Collection<SqlColumn>
     {
-        new SqlColumn("user_name", SqlDbType.NVarChar) // Kullanýcý adý için özel bir kolon ekliyoruz
+        new SqlColumn("user_name", SqlDbType.NVarChar) 
     }
 };
 
 var sinkOptions = new MSSqlServerSinkOptions
 {
     TableName = "logs",
-    AutoCreateSqlTable = true // Tablo otomatik olarak oluþturulsun
+    AutoCreateSqlTable = true 
 };
 
 /*Logger log = new LoggerConfiguration()

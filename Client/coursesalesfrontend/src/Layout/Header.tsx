@@ -1,24 +1,24 @@
-import React, { useEffect } from 'react';
-import './Styles/Header.css';
-import { NavLink, useNavigate } from 'react-router-dom';
-import { useDispatch, useSelector } from 'react-redux';
-import { RootState } from '../Storage/store';
-import { InitialState, setLoggedInUser } from '../Storage/Redux/authenticationSlice';
+import React, { useEffect } from "react";
+import "./Styles/Header.css";
+import { NavLink, useNavigate } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { RootState } from "../Storage/store";
+import { InitialState, setLoggedInUser } from "../Storage/Redux/authenticationSlice";
 
 function Header() {
   const userStore = useSelector((state: RootState) => state.authenticationStore);
-  const token = localStorage.getItem('token');
+  const token = localStorage.getItem("token");
   const dispatch = useDispatch();
   const navigate = useNavigate();
 
   useEffect(() => {
-    console.log('User Store:', userStore);
+    console.log("User Store:", userStore);
   }, [userStore]);
 
   const handleLogout = () => {
-    localStorage.removeItem('token');
+    localStorage.removeItem("token");
     dispatch(setLoggedInUser({ ...InitialState }));
-    navigate('/');
+    navigate("/");
   };
 
   return (
@@ -27,7 +27,7 @@ function Header() {
         <div className="container">
           {/* Logo */}
           <NavLink className="navbar-brand" to="/">
-            <span style={{ color: '#A435F0' }}>I</span>nveon
+            <span style={{ color: "#A435F0" }}>I</span>nveon
           </NavLink>
 
           {/* Navbar Toggler for Mobile */}
@@ -71,14 +71,29 @@ function Header() {
                 </NavLink>
               </li>
 
+              {/* Kurs Ekleme Butonu */}
+              {userStore.role === "salih" && (
+                <li className="nav-item me-2">
+                  <NavLink className="btn btn-success" to="/createcourse">
+                    <i className="fas fa-plus-circle"></i> Kurs Ekle
+                  </NavLink>
+                </li>
+              )}
+
+              {/* Bilgilerim */}
+              {userStore?.name && (
+                <li className="nav-item me-2">
+                  <NavLink className="btn btn-info" to="/updateuser">
+                    <i className="fas fa-user"></i> Bilgilerim
+                  </NavLink>
+                </li>
+              )}
+
               {/* Kullanıcı Giriş ve Çıkış */}
               {userStore?.name ? (
                 <li className="nav-item me-2">
                   {/* Çıkış Yap Butonu */}
-                  <button
-                    className="btn btn-outline-dark"
-                    onClick={handleLogout}
-                  >
+                  <button className="btn btn-outline-dark" onClick={handleLogout}>
                     Çıkış Yap
                   </button>
                 </li>

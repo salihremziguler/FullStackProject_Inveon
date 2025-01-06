@@ -23,14 +23,14 @@ namespace CourseSalesAPI.Persistance.Services
         readonly ITokenHandler _tokenHandler;
         readonly SignInManager<Domain.Entities.Identity.AppUser> _signInManager;
         readonly IUserService _userService;
-       // readonly IMailService _mailService;
+     
         public AuthService(IHttpClientFactory httpClientFactory,
             IConfiguration configuration,
             UserManager<Domain.Entities.Identity.AppUser> userManager,
             ITokenHandler tokenHandler,
             SignInManager<AppUser> signInManager,
             IUserService userService)
-           // IMailService mailService)
+         
         {
             _httpClient = httpClientFactory.CreateClient();
             _configuration = configuration;
@@ -38,7 +38,7 @@ namespace CourseSalesAPI.Persistance.Services
             _tokenHandler = tokenHandler;
             _signInManager = signInManager;
             _userService = userService;
-          //  _mailService = mailService;
+        
         }
 
 
@@ -66,7 +66,7 @@ namespace CourseSalesAPI.Persistance.Services
             {
                 await _userManager.AddLoginAsync(user, info); //AspNetUserLogins
 
-                Token token = _tokenHandler.CreateAccessToken(accessTokenLifeTime, user);
+                Token token =await _tokenHandler.CreateAccessToken(accessTokenLifeTime, user);
                 await _userService.UpdateRefreshTokenAsync(token.RefreshToken, user, token.Expiration, 15);
                 return token;
             }
@@ -124,7 +124,7 @@ namespace CourseSalesAPI.Persistance.Services
             SignInResult result = await _signInManager.CheckPasswordSignInAsync(user, password, false);
             if (result.Succeeded) //Authentication başarılı!
             {
-                Token token = _tokenHandler.CreateAccessToken(accessTokenLifeTime, user);
+                Token token =await _tokenHandler.CreateAccessToken(accessTokenLifeTime, user);
                 await _userService.UpdateRefreshTokenAsync(token.RefreshToken, user, token.Expiration, 15);
                 return token;
             }
@@ -138,7 +138,7 @@ namespace CourseSalesAPI.Persistance.Services
             AppUser? user = await _userManager.Users.FirstOrDefaultAsync(u => u.RefreshToken == refreshToken);
             if (user != null && user?.RefreshTokenEndDate > DateTime.UtcNow)
             {
-                Token token = _tokenHandler.CreateAccessToken(15, user);
+                Token token = await _tokenHandler.CreateAccessToken(15, user);
                 await _userService.UpdateRefreshTokenAsync(token.RefreshToken, user, token.Expiration, 300);
                 return token;
             }

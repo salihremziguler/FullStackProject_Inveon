@@ -170,37 +170,6 @@
         }
       }
     },
-    "/api/Baskets/update-user": {
-      "put": {
-        "tags": [
-          "Baskets"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateUserCommandRequest"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateUserCommandRequest"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateUserCommandRequest"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/api/Catalog": {
       "get": {
         "tags": [
@@ -302,49 +271,6 @@
         }
       }
     },
-    "/api/Catalog/UploadImage/{id}": {
-      "post": {
-        "tags": [
-          "Catalog"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string",
-              "format": "uuid"
-            }
-          }
-        ],
-        "requestBody": {
-          "content": {
-            "multipart/form-data": {
-              "schema": {
-                "type": "object",
-                "properties": {
-                  "Image": {
-                    "type": "string",
-                    "format": "binary"
-                  }
-                }
-              },
-              "encoding": {
-                "Image": {
-                  "style": "form"
-                }
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/api/Catalog/AddCourseWithImage": {
       "post": {
         "tags": [
@@ -408,18 +334,6 @@
         }
       }
     },
-    "/api/Catalog/Upload2": {
-      "post": {
-        "tags": [
-          "Catalog"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/api/Catalog/GetCourses": {
       "get": {
         "tags": [
@@ -464,18 +378,6 @@
               "type": "string"
             }
           }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Orders/UserOrders": {
-      "get": {
-        "tags": [
-          "Orders"
         ],
         "responses": {
           "200": {
@@ -660,6 +562,37 @@
             }
           }
         ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/UserEdit/update-user": {
+      "put": {
+        "tags": [
+          "UserEdit"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateUserCommandRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateUserCommandRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateUserCommandRequest"
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "OK"

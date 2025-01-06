@@ -1,3 +1,4 @@
 export default interface userModel {
-    name?:string
+    name?: string;
+    role?: string; 
 }

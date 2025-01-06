@@ -4,7 +4,7 @@ import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { LoginModel } from "../../interfaces/loginModel";
 import { setLoggedInUser } from "../../Storage/Redux/authenticationSlice";
-import { jwtDecode } from "jwt-decode";
+import jwtDecode from "jwt-decode";
 import "./Styles/Login.css";
 
 const Login: React.FC = () => {
@@ -27,10 +27,12 @@ const Login: React.FC = () => {
 
         const decoded: any = jwtDecode(accessToken);
         const name = decoded.name;
+        const role = decoded.role;
 
         dispatch(
           setLoggedInUser({
             name,
+            role,
           })
         );
 
@@ -48,7 +50,7 @@ const Login: React.FC = () => {
       <div className="login-container">
         <div className="login-left">
           <img
-            src="/assets/login-image.png" // Örnek resim
+            src="/assets/login-image.png"
             alt="Login Visual"
             className="login-image"
           />
@@ -90,7 +92,6 @@ const Login: React.FC = () => {
               <span>📧</span> Oturum Aç
             </button>
           </form>
-         
         </div>
       </div>
     </section>

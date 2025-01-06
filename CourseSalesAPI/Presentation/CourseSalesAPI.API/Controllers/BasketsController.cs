@@ -49,32 +49,7 @@ namespace CourseSalesAPI.API.Controllers
         }
 
 
-        [HttpPut("update-user")]
-        public async Task<IActionResult> UpdateUser([FromBody] UpdateUserCommandRequest updateUserRequest, [FromServices] UserManager<AppUser> userManager, [FromServices] IHttpContextAccessor httpContextAccessor)
-        {
-            var username = httpContextAccessor.HttpContext?.User?.Identity?.Name;
-            if (string.IsNullOrEmpty(username))
-            {
-                return Unauthorized("Token geçerli bir kullanıcı içermiyor.");
-            }
-
-            var user = await userManager.FindByNameAsync(username);
-            if (user == null)
-            {
-                return NotFound("Kullanıcı bulunamadı.");
-            }
-
-            user.NameSurname = updateUserRequest.NameSurname ?? user.NameSurname;
-
-            var result = await userManager.UpdateAsync(user);
-            if (result.Succeeded)
-            {
-                return Ok("Kullanıcı bilgileri güncellendi.");
-            }
-
-            return BadRequest("Kullanıcı bilgileri güncellenemedi.");
-        }
-
+       
 
     }
 }
