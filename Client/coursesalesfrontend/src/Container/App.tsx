@@ -14,6 +14,7 @@ import Payment from "../Pages/Payment/Payment";
 import Orders from "../Pages/Order/Orders";
 import PurchasedCourses from "../Pages/Order/PurchasedCourses";
 import Layout from "../Pages/Footer/Layout";
+import UserList from "../Pages/Account/UserList";
 
 function App() {
   return (
@@ -34,6 +35,8 @@ function App() {
           <Route path="/order" element={<PurchasedCourses />} />
           <Route path="/createcourse" element={<CreateCourse />} />
           <Route path="/updateuser" element={<UpdateUser />} />
+         
+
 
           </Route>
 

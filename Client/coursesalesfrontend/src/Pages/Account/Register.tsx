@@ -13,16 +13,28 @@ function Register() {
   });
 
   const [userRegisterMutation] = useSignUpMutation();
+  const [message, setMessage] = useState(""); // Başarı veya hata mesajı için
 
   const handleRegistrationSubmit = async () => {
-    const response = await userRegisterMutation({
-      username: userData.username,
-      nameSurname: userData.nameSurname,
-      password: userData.password,
-      passwordConfirm: userData.passwordConfirm,
-      email: userData.email,
-    });
-    console.log(response);
+    try {
+      const response = await userRegisterMutation({
+        username: userData.username,
+        nameSurname: userData.nameSurname,
+        password: userData.password,
+        passwordConfirm: userData.passwordConfirm,
+        email: userData.email,
+      });
+
+      if (response.data?.succeeded) {
+        setMessage("Başarılı bir şekilde kaydoldunuz!");
+        setTimeout(() => navigate("/login"), 2000); // 2 saniye sonra login sayfasına yönlendirme
+      } else {
+        setMessage(response.data?.message || "Kayıt işlemi başarısız oldu.");
+      }
+    } catch (error) {
+      console.error(error);
+      setMessage("Bir hata oluştu.");
+    }
   };
 
   return (
@@ -40,6 +52,7 @@ function Register() {
         {/* Sağ kısım: Form */}
         <div className="col-md-6">
           <h2 className="mb-4">Kaydolun ve öğrenmeye başlayın</h2>
+          {message && <div className="alert alert-info">{message}</div>} {/* Mesaj göstermek */}
           <form>
             <div className="form-group mb-3">
               <input
@@ -106,7 +119,7 @@ function Register() {
                 }
               />
             </div>
-         
+
             <button
               type="button"
               className="btn btn-primary w-100"
@@ -114,7 +127,6 @@ function Register() {
             >
               Kaydol
             </button>
-          
           </form>
         </div>
       </div>
