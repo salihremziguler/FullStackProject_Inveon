@@ -26,12 +26,13 @@ namespace CourseSalesAPI.Persistance
             services.AddIdentity<AppUser, AppRole>(
                 options =>
                 {
-                    options.Password.RequiredLength = 3;
+                    options.Password.RequiredLength = 6;
                     options.Password.RequireNonAlphanumeric = false;
-                    options.Password.RequireDigit = false;
-                    options.Password.RequireLowercase = false;
-                    options.Password.RequireUppercase = false;
-                }).AddEntityFrameworkStores<ApplicationDbContext>();
+                    options.Password.RequireDigit = true;
+                    options.Password.RequireLowercase = true;
+                    options.Password.RequireUppercase = true;
+                }).AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddErrorDescriber<CustomIdentityErrorDescriber>();
 
 
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.ConnectionString));

@@ -3,308 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getallcourse\\getallcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\controllers\\usereditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\controllers\\usereditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\deleteuser\\deleteusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\deleteuser\\deleteusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\basket\\getbasketitems\\getbasketitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\basket\\getbasketitems\\getbasketitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\basket\\getbasketitems\\getbasketitemsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\basket\\getbasketitems\\getbasketitemsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\basket\\getbasketitems\\getbasketitemsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\basket\\getbasketitems\\getbasketitemsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50D1CAAF-7DF1-45E6-B60D-3209A8044EFE}|Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.infrastructure\\services\\token\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D1CAAF-7DF1-45E6-B60D-3209A8044EFE}|Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj|solutionrelative:infrastructure\\coursesalesapi.infrastructure\\services\\token\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\abstractions\\token\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\abstractions\\token\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\dtos\\order\\completedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\dtos\\order\\completedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|solutionrelative:core\\coursesalesapi.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\role\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\role\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\role\\getrole\\getrolesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\role\\getrole\\getrolesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\role\\getrole\\getrolesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\role\\getrole\\getrolesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\role\\getrole\\getrolesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\role\\getrole\\getrolesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\role\\getrolebyid\\getrolebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\role\\getrolebyid\\getrolebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\role\\getrolebyid\\getrolebyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\role\\getrolebyid\\getrolebyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\role\\getrolebyid\\getrolebyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\role\\getrolebyid\\getrolebyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\role\\updaterole\\updaterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\role\\updaterole\\updaterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\role\\updaterole\\updaterolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\role\\updaterole\\updaterolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\role\\updaterole\\updaterolecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\role\\updaterole\\updaterolecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\role\\deleterole\\deleterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\role\\deleterole\\deleterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\role\\deleterole\\deleterolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\role\\deleterole\\deleterolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\role\\deleterole\\deleterolecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\role\\deleterole\\deleterolecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\order\\createorder\\createordercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\order\\createorder\\createordercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\abstractions\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\abstractions\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\role\\createrole\\createrolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\role\\createrole\\createrolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\role\\createrole\\createrolecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\role\\createrole\\createrolecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\assignroletouser\\assignroletousercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\assignroletouser\\assignroletousercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\assignroletouser\\assignroletousercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\assignroletouser\\assignroletousercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\assignroletouser\\assignroletousercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\assignroletouser\\assignroletousercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|solutionrelative:core\\coursesalesapi.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.domain\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|solutionrelative:core\\coursesalesapi.domain\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.domain\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|solutionrelative:core\\coursesalesapi.domain\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\queries\\course\\getbyidcourse\\getbyidcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\repositories\\course\\icoursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\repositories\\course\\icoursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\repositories\\course\\icoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\repositories\\course\\icoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\course\\createcourse\\createcoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\order\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\order\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\viewmodels\\uploadimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\viewmodels\\uploadimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\repositories\\purchasedcourse\\purchasedcoursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\repositories\\purchasedcourse\\purchasedcoursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\repositories\\purchasedcourse\\purchasedcoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\repositories\\purchasedcourse\\purchasedcoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\repositories\\orderitem\\orderitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\repositories\\orderitem\\orderitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\repositories\\orderitem\\orderitemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\repositories\\orderitem\\orderitemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\repositories\\purchasedcourse\\ipurchasedcoursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\repositories\\purchasedcourse\\ipurchasedcoursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\repositories\\orderitem\\iorderitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\repositories\\orderitem\\iorderitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\repositories\\purchasedcourse\\ipurchasedcoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\repositories\\purchasedcourse\\ipurchasedcoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\repositories\\orderitem\\iorderitemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\repositories\\orderitem\\iorderitemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.domain\\entities\\purchasedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|solutionrelative:core\\coursesalesapi.domain\\entities\\purchasedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\repositories\\order\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\repositories\\order\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\repositories\\order\\iorderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\repositories\\order\\iorderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\repositories\\order\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\repositories\\order\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\repositories\\order\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\repositories\\order\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|solutionrelative:core\\coursesalesapi.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274B16FF-3AFE-4755-82C1-B0CA0B0FD1EE}|Core\\CourseSalesAPI.Domain\\CourseSalesAPI.Domain.csproj|solutionrelative:core\\coursesalesapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\viewmodels\\paymet\\vm_paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\viewmodels\\paymet\\vm_paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\viewmodels\\paymet\\vm_paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\viewmodels\\paymet\\vm_paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\abstractions\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\abstractions\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\deleteuser\\deleteusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\deleteuser\\deleteusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -315,40 +31,52 @@
       "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\updateuser\\updateusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50D1CAAF-7DF1-45E6-B60D-3209A8044EFE}|Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.infrastructure\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D1CAAF-7DF1-45E6-B60D-3209A8044EFE}|Infrastructure\\CourseSalesAPI.Infrastructure\\CourseSalesAPI.Infrastructure.csproj|solutionrelative:infrastructure\\coursesalesapi.infrastructure\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\updateuser\\updateusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\updateuser\\updateusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\basket\\additemtobasket\\additemtobasketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\basket\\additemtobasket\\additemtobasketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\customidentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\customidentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\loginuser\\loginusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\loginuser\\loginusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\infrastructure\\coursesalesapi.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4031CD9-7AFD-47F7-874F-66482CD02A4A}|Infrastructure\\CourseSalesAPI.Persistance\\CourseSalesAPI.Persistance.csproj|solutionrelative:infrastructure\\coursesalesapi.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\loginuser\\loginusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\loginuser\\loginusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\exceptions\\usercreatefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\exceptions\\usercreatefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\order\\createorder\\createordercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\order\\createorder\\createordercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\exceptions\\passwordchangefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\exceptions\\passwordchangefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\dtos\\createorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\dtos\\createorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\exceptions\\notfounduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\exceptions\\notfounduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\dtos\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\dtos\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\exceptions\\authenticationerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\exceptions\\authenticationerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\core\\coursesalesapi.application\\feautures\\commands\\appuser\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45273B62-7A9D-4FD6-8BFF-E610A8E15FF1}|Core\\CourseSalesAPI.Application\\CourseSalesAPI.Application.csproj|solutionrelative:core\\coursesalesapi.application\\feautures\\commands\\appuser\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|c:\\users\\slhgl\\source\\repos\\coursesalesapi\\presentation\\coursesalesapi.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1539DB8F-D66E-4567-A0F4-4E44198C1245}|Presentation\\CourseSalesAPI.API\\CourseSalesAPI.API.csproj|solutionrelative:presentation\\coursesalesapi.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -358,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -366,936 +94,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Program.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Program.cs",
-              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Program.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAAADgAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:28:21.849Z",
+              "WhenOpened": "2025-01-06T16:55:21.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteUserCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandResponse.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandResponse.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:55:13.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserEditController.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\UserEditController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\UserEditController.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\UserEditController.cs",
-              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\UserEditController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Title": "DeleteUserCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandRequest.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandRequest.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\DeleteUser\\DeleteUserCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T00:22:28.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CatalogController.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\CatalogController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\CatalogController.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\CatalogController.cs",
-              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\CatalogController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAowGEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:01:35.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetAllCourseQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryHandler.cs*",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryHandler.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:21:41.168Z",
+              "WhenOpened": "2025-01-06T16:55:00.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetAllCourseQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "UserEditController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\UserEditController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\UserEditController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\UserEditController.cs",
+              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\UserEditController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:22:16.034Z",
+              "WhenOpened": "2025-01-06T16:07:54.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllCourseQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryRequest.cs*",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetAllCourse\\GetAllCourseQueryRequest.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:22:14.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\PaymentController.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAqwHEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:37:45.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BasketsController.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\BasketsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\BasketsController.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\BasketsController.cs",
-              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\BasketsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T10:20:26.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAqwCoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:56:43.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TokenHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\Services\\Token\\TokenHandler.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Infrastructure\\Services\\Token\\TokenHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\Services\\Token\\TokenHandler.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Infrastructure\\Services\\Token\\TokenHandler.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwC4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:17:51.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ITokenHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Abstractions\\Token\\ITokenHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Abstractions\\Token\\ITokenHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Abstractions\\Token\\ITokenHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Abstractions\\Token\\ITokenHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T22:24:41.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetBasketItemsQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T18:40:35.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:56:35.04Z",
+              "WhenOpened": "2025-01-06T16:09:05.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GetBasketItemsQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Title": "userCreateFailedException.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Exceptions\\userCreateFailedException.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Exceptions\\userCreateFailedException.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Exceptions\\userCreateFailedException.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Exceptions\\userCreateFailedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T18:40:20.803Z",
+              "WhenOpened": "2025-01-06T16:31:30.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetBasketItemsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAAAoAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandHandler.cs*",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandHandler.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwDwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T18:40:51.692Z",
+              "WhenOpened": "2025-01-06T16:08:18.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Services\\AuthService.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Services\\AuthService.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAkwJEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:56:24.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\ServiceRegistration.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\ServiceRegistration.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:57:25.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Course.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Domain\\Entities\\Course.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Course.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Domain\\Entities\\Course.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:33:17.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CompletedOrder.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\DTOs\\Order\\CompletedOrder.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\DTOs\\Order\\CompletedOrder.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\DTOs\\Order\\CompletedOrder.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\DTOs\\Order\\CompletedOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:57:41.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:55:53.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateRoleCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:39:08.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GetRolesQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:48:26.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GetRolesQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:48:39.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Services\\RoleService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Services\\RoleService.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Services\\RoleService.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Services\\RoleService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:41:52.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\RolesController.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA3wDcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:37:47.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GetRolesQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRole\\GetRolesQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:48:15.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "GetRoleByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:46:52.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GetRoleByIdQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:47:14.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GetRoleByIdQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:47:04.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UpdateRoleCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:45:01.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UpdateRoleCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:45:13.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UpdateRoleCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\UpdateRole\\UpdateRoleCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:45:23.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DeleteRoleCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:43:29.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DeleteRoleCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:43:50.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DeleteRoleCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\DeleteRole\\DeleteRoleCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:43:40.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "CreateOrderCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandRequest.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:37:59.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "IRoleService.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Abstractions\\Services\\IRoleService.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Abstractions\\Services\\IRoleService.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Abstractions\\Services\\IRoleService.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Abstractions\\Services\\IRoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:40:43.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "CreateRoleCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:39:32.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CreateRoleCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Role\\CreateRole\\CreateRoleCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:39:18.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "AssignRoleToUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:32:41.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "AssignRoleToUserCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:33:06.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "AssignRoleToUserCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\AssignRoleToUser\\AssignRoleToUserCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:32:55.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "AppRole.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Identity\\AppRole.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Domain\\Entities\\Identity\\AppRole.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Identity\\AppRole.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Domain\\Entities\\Identity\\AppRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:16:41.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Identity\\AppUser.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Domain\\Entities\\Identity\\AppUser.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Identity\\AppUser.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Domain\\Entities\\Identity\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:16:39.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "GetByIdCourseQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:48:50.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Basket.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Basket.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Domain\\Entities\\Basket.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Basket.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Domain\\Entities\\Basket.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:54:42.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "BasketService.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Services\\BasketService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Services\\BasketService.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Services\\BasketService.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Services\\BasketService.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAiwCYAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T10:22:35.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "GetByIdCourseQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:50:26.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "GetByIdCourseQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Queries\\Course\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:49:03.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "ICourseReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\Course\\ICourseReadRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Repositories\\Course\\ICourseReadRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\Course\\ICourseReadRepository.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Repositories\\Course\\ICourseReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:09:50.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "CreateCourseCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandRequest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:35:49.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "CreateCourseCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandHandler.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:35:32.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "ICourseWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\Course\\ICourseWriteRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Repositories\\Course\\ICourseWriteRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\Course\\ICourseWriteRepository.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Repositories\\Course\\ICourseWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:09:51.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "CreateCourseCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Course\\CreateCourse\\CreateCourseCommandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:35:58.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "CreateOrderCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:42:04.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "UploadImageRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\ViewModels\\UploadImageRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\ViewModels\\UploadImageRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\ViewModels\\UploadImageRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\ViewModels\\UploadImageRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:49:46.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "PurchasedCourseReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\PurchasedCourse\\PurchasedCourseReadRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\PurchasedCourse\\PurchasedCourseReadRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\PurchasedCourse\\PurchasedCourseReadRepository.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\PurchasedCourse\\PurchasedCourseReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:11:41.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "PurchasedCourseWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\PurchasedCourse\\PurchasedCourseWriteRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\PurchasedCourse\\PurchasedCourseWriteRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\PurchasedCourse\\PurchasedCourseWriteRepository.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\PurchasedCourse\\PurchasedCourseWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:11:50.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "OrderItemWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\OrderItem\\OrderItemWriteRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\OrderItem\\OrderItemWriteRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\OrderItem\\OrderItemWriteRepository.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\OrderItem\\OrderItemWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:12:47.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "OrderItemReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\OrderItem\\OrderItemReadRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\OrderItem\\OrderItemReadRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\OrderItem\\OrderItemReadRepository.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\OrderItem\\OrderItemReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:11:54.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "IOrderItemWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\OrderItem\\IOrderItemWriteRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Repositories\\OrderItem\\IOrderItemWriteRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\OrderItem\\IOrderItemWriteRepository.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Repositories\\OrderItem\\IOrderItemWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:10:35.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "IPurchasedCourseWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\PurchasedCourse\\IPurchasedCourseWriteRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Repositories\\PurchasedCourse\\IPurchasedCourseWriteRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\PurchasedCourse\\IPurchasedCourseWriteRepository.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Repositories\\PurchasedCourse\\IPurchasedCourseWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:09:58.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "IPurchasedCourseReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\PurchasedCourse\\IPurchasedCourseReadRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Repositories\\PurchasedCourse\\IPurchasedCourseReadRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\PurchasedCourse\\IPurchasedCourseReadRepository.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Repositories\\PurchasedCourse\\IPurchasedCourseReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:09:39.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "PurchasedCourse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\PurchasedCourse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Domain\\Entities\\PurchasedCourse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\PurchasedCourse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Domain\\Entities\\PurchasedCourse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:07:29.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "IOrderWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:03:51.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "IOrderItemReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\OrderItem\\IOrderItemReadRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Repositories\\OrderItem\\IOrderItemReadRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\OrderItem\\IOrderItemReadRepository.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Repositories\\OrderItem\\IOrderItemReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:03:47.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "IOrderReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\Order\\IOrderReadRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Repositories\\Order\\IOrderReadRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Repositories\\Order\\IOrderReadRepository.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Repositories\\Order\\IOrderReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:03:49.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "OrderReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\Order\\OrderReadRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\Order\\OrderReadRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\Order\\OrderReadRepository.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\Order\\OrderReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:03:39.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "OrderWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\Order\\OrderWriteRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\Order\\OrderWriteRepository.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\Order\\OrderWriteRepository.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Repositories\\Order\\OrderWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:03:23.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "VM_PaymentResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\ViewModels\\Paymet\\VM_PaymentResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\ViewModels\\Paymet\\VM_PaymentResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\ViewModels\\Paymet\\VM_PaymentResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\ViewModels\\Paymet\\VM_PaymentResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:34:52.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "VM_PaymentRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\ViewModels\\Paymet\\VM_PaymentRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\ViewModels\\Paymet\\VM_PaymentRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\ViewModels\\Paymet\\VM_PaymentRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\ViewModels\\Paymet\\VM_PaymentRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:34:41.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:52:26.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Domain\\Entities\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Domain\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Domain\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:54:49.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "IBasketService.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Abstractions\\Services\\IBasketService.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Abstractions\\Services\\IBasketService.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Abstractions\\Services\\IBasketService.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Abstractions\\Services\\IBasketService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T14:03:00.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\Services\\OrderService.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:37:10.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\appsettings.json",
-              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\appsettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCEAAACCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-05T01:28:24.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 7,
               "Title": "UpdateUserCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandResponse.cs",
               "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandResponse.cs",
@@ -1303,127 +193,151 @@
               "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T02:01:09.036Z"
+              "WhenOpened": "2025-01-06T16:43:38.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 6,
               "Title": "UpdateUserCommandRequest.cs",
               "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandRequest.cs",
               "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandRequest.cs",
               "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandRequest.cs",
               "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T02:01:01.397Z"
+              "WhenOpened": "2025-01-06T16:43:31.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "UpdateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\UpdateUser\\UpdateUserCommandHandler.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CustomIdentityErrorDescriber.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\CustomIdentityErrorDescriber.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\CustomIdentityErrorDescriber.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\CustomIdentityErrorDescriber.cs",
+              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\CustomIdentityErrorDescriber.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T02:01:18.863Z"
+              "WhenOpened": "2025-01-06T16:34:31.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "HttpContextExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\Extensions\\HttpContextExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Infrastructure\\Extensions\\HttpContextExtensions.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Infrastructure\\Extensions\\HttpContextExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Infrastructure\\Extensions\\HttpContextExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwB8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T09:34:43.038Z"
+              "WhenOpened": "2025-01-06T16:23:08.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "AddItemToBasketCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandHandler.cs",
+              "DocumentIndex": 9,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CourseSalesAPI.Persistance\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Infrastructure\\CourseSalesAPI.Persistance\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\CourseSalesAPI.Persistance\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:28:13.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordChangeFailedException.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Exceptions\\PasswordChangeFailedException.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Exceptions\\PasswordChangeFailedException.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Exceptions\\PasswordChangeFailedException.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Exceptions\\PasswordChangeFailedException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T09:22:24.295Z"
+              "WhenOpened": "2025-01-06T16:31:28.795Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "LoginUserCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:58:39.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "LoginUserCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandRequest.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandRequest.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:58:32.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "LoginUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandHandler.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\LoginUser\\LoginUserCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:58:15.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "CreateOrderCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandResponse.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandResponse.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandResponse.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\Order\\CreateOrder\\CreateOrderCommandResponse.cs",
+              "DocumentIndex": 13,
+              "Title": "NotFoundUserException.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Exceptions\\NotFoundUserException.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Exceptions\\NotFoundUserException.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Exceptions\\NotFoundUserException.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Exceptions\\NotFoundUserException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:42:50.842Z"
+              "WhenOpened": "2025-01-06T16:31:24.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
-              "Title": "CreateOrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\DTOs\\CreateOrderItem.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\DTOs\\CreateOrderItem.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\DTOs\\CreateOrderItem.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\DTOs\\CreateOrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:41:49.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 86,
-              "Title": "Createuser.cs",
-              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\DTOs\\User\\Createuser.cs",
-              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\DTOs\\User\\Createuser.cs",
-              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\DTOs\\User\\Createuser.cs",
-              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\DTOs\\User\\Createuser.cs",
+              "DocumentIndex": 14,
+              "Title": "AuthenticationErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Exceptions\\AuthenticationErrorException.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Exceptions\\AuthenticationErrorException.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Exceptions\\AuthenticationErrorException.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Exceptions\\AuthenticationErrorException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:41:37.234Z"
+              "WhenOpened": "2025-01-06T16:31:22.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateUserCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandResponse.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:23:40.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateUserCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandRequest.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeToolTip": "Core\\CourseSalesAPI.Application\\Feautures\\Commands\\AppUSer\\CreateUser\\CreateUserCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:23:30.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:15:03.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CourseSalesAPI.API\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\CourseSalesAPI\\Presentation\\CourseSalesAPI.API\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Presentation\\CourseSalesAPI.API\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:15:00.032Z",
+              "EditorCaption": ""
             }
           ]
         }

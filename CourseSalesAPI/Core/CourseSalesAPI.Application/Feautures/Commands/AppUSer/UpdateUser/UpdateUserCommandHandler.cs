@@ -53,24 +53,42 @@ namespace CourseSalesAPI.Application.Feautures.Commands.AppUSer.UpdateUser
                 };
             }
 
-            // Kullanıcı adını güncelle
-            user.UserName = request.NameSurname ?? user.UserName;
+            if (!string.IsNullOrWhiteSpace(request.NameSurname))
+            {
+                user.UserName = request.NameSurname;
+            }
 
+    
+            if (!string.IsNullOrWhiteSpace(request.CurrentPassword) && !string.IsNullOrWhiteSpace(request.NewPassword))
+            {
+                var passwordChangeResult = await _userManager.ChangePasswordAsync(user, request.CurrentPassword, request.NewPassword);
+                if (!passwordChangeResult.Succeeded)
+                {
+                    return new UpdateUserCommandResponse
+                    {
+                        IsSuccess = false,
+                        Message = "Şifre güncellerken hata oluştu: " + string.Join(", ", passwordChangeResult.Errors.Select(e => e.Description))
+                    };
+                }
+            }
+
+         
             var result = await _userManager.UpdateAsync(user);
             if (result.Succeeded)
             {
                 return new UpdateUserCommandResponse
                 {
                     IsSuccess = true,
-                    Message = "Username updated successfully"
+                    Message = "Başarılı bir şekilde güncellendi"
                 };
             }
 
             return new UpdateUserCommandResponse
             {
                 IsSuccess = false,
-                Message = "Failed to update username"
+                Message = "Hata oluştu"
             };
         }
     }
+
 }

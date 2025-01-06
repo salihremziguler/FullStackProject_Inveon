@@ -11,7 +11,8 @@ namespace CourseSalesAPI.Application.Feautures.Commands.AppUSer.UpdateUser
     {
         //public string UserId { get; set; }
         public string NameSurname { get; set; }
-        
-       
+        public string CurrentPassword { get; set; } 
+        public string NewPassword { get; set; } 
+
     }
 }

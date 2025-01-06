@@ -355,6 +355,38 @@
   },
   {
     "ContainingType": "CourseSalesAPI.API.Controllers.UserEditController",
+    "Method": "CreateUser",
+    "RelativePath": "api/UserEdit/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createUserCommandRequest",
+        "Type": "CourseSalesAPI.Application.Feautures.Commands.AppUSer.CreateUser.CreateUserCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseSalesAPI.API.Controllers.UserEditController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/UserEdit/delete-user/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseSalesAPI.API.Controllers.UserEditController",
     "Method": "UpdateUser",
     "RelativePath": "api/UserEdit/update-user",
     "HttpMethod": "PUT",
