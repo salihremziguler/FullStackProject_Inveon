@@ -135,7 +135,7 @@ Proje **Onion Architecture** tabanlı olarak organize edilmiştir. Bu mimari, ka
 
 ---
 
-## Proje Ekran Görünn\u00fmleri
+## Proje Bileşenleri
 - **Kurs Listesi**: Kullanıcılar mevcut kursları listeleyebilir.
 - **Kurs Detayları**: Her kursun detay sayfası bulunur.
 - **Sepet**: Kullanıcının sepetine eklediği kurslar listelenir.
