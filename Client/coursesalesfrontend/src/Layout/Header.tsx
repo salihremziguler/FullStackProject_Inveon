@@ -74,7 +74,7 @@ function Header() {
               </li>
 
               {/* Kurs Ekleme Butonu */}
-              {userStore.role === "salih" && (
+              {userStore.role === "admin" && (
                 <li className="nav-item me-2">
                   <NavLink className="btn btn-success" to="/createcourse">
                     <i className="fas fa-plus-circle"></i> Kurs Ekle
